@@ -21,6 +21,8 @@ public class Exercicios_2 {
 
      for(int i =0; i< num.length; i++){
       soma+=num[i];
+
+
      }
      System.out.println("A media do numeros são = " +soma /6);
 
